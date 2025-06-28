@@ -4,6 +4,9 @@ This project provides a hands-on, end-to-end data engineering and analytics pipe
 
 It demonstrates ingestion, transformation, querying, and visualization of IPL data to offer key insights into player and team performances using real-world data processing methods.
 
+## Project Architecture
+![Project Architecture](https://github.com/user-attachments/assets/d2bc8fe1-333c-41a5-b38f-8c7966fc8379)
+
  ## Technology Used
 
 Programming Language: Python
